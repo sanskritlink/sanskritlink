@@ -3,7 +3,8 @@
 - 🌱 वयं इदानीं संस्कृत अध्ययनं रताः 
 - 💞️ संस्कृत ज्ञान विषये सहयोगं प्रार्थये 
 - 📫 वयं अत्र स्म https://sanskrit.link
-  इ-पत्र संकेतं : sanskrit@sanskrit.link
+
+इ-पत्र संकेतं : sanskrit@sanskrit.link
 
 <!---
 sanskritlink/sanskritlink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
